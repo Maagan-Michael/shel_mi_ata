@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722855582240",
+    "project_id": "you-re-who-s",
+    "storage_bucket": "you-re-who-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722855582240:android:68e80840728fad72c93a45",
+        "android_client_info": {
+          "package_name": "com.example.youre_whos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722855582240-5fm5cgp8cnt4rpo561n8u52vmd6mgi6a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk5i_2lMmCoAqI_EtkhyDSCSdg9jQLWiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722855582240-5fm5cgp8cnt4rpo561n8u52vmd6mgi6a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
